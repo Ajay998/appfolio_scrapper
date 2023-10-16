@@ -1,2 +1,1 @@
-# django-ecommerce-website
-Add items to e-commerce webste
+Scape data in appfolio
